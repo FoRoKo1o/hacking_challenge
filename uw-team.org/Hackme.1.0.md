@@ -2,10 +2,9 @@
 https://www.uw-team.org/hackme/
 
 ## Intro
-```
 Hackme
 Masz przed soba prosta gre programistyczna. Polega ona na lamaniu kolejnych nastepujacych po sobie haslach. Nie zgaduj hasel, zerkaj do kodu! Badz uczciwy i nie zmieniaj kodu hackme lokalnie! wolno ci uzywac tylko kalkulatora, olowka i twojej glowy!
-```
+
 
 # Hackme 1.0 
 
